@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=D2BHConvert
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ D2B\ here.\r\n\ \r\n\ Kevin\ Kirspel\ \r\n\ 10/8/10\r\n
+comment1.params=number
+comment1.target=java.lang.String\ decimal2Hex(int)
+comment2.params=number
+comment2.target=java.lang.String\ decimal2Binary(int)
+numComments=3

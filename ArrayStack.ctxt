@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ArrayStack()
+comment1.params=maxSize
+comment1.target=ArrayStack(int)
+comment2.params=element
+comment2.target=void\ push(Object)
+comment3.target=void\ pop()
+comment4.target=Object\ top()
+comment5.target=boolean\ isEmpty()
+comment6.target=boolean\ isFull()
+numComments=7

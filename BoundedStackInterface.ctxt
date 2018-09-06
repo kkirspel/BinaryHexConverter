@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=element
+comment0.target=void\ push(Object)
+comment1.target=boolean\ isFull()
+numComments=2
