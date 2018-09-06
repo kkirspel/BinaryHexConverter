@@ -1,7 +1,7 @@
 # BinaryHexConverter
 Converts an integer value to binary and hex 
 
-Installing bluej: https://www.bluej.org/
+Installing bluej: https://www.bluej.org/ 
 Using bluej:      http://www.mathcs.emory.edu/~cheung/Courses/170/Syllabus/02/BlueJ/BlueJ2.html
 
 Directions
